@@ -1,10 +1,11 @@
 # Computer-Organisation-Project
 
-CSE 112 - Course Project by Arnav Goel (2021519)
+## CSE 112 - Course Project by Arnav Goel (2021519)
 
 Made a Simple Assembler and Simulator based on a custom ISA using Python.
 
-INSTRUCTIONS FOR RUN FILE: All the run files need to be granted permission/privelidge for execution.
+## INSTRUCTIONS FOR RUN FILE: 
+All the run files need to be granted permission/privelidge for execution.
 Eg. for Linux-systems, go to the folder of each run file using bash/terminal and write "chmod +x run" {without quotes}.
 
 To run the results for your assembler, go to Automated Testing folder and open bash/terminal.
